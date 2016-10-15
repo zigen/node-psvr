@@ -1,0 +1,16 @@
+{
+  "name": "node-psvr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-hid": "^0.5.1",
+    "usb": "^1.2.0"
+  }
+}
