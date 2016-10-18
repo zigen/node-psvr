@@ -1,15 +1,15 @@
 {
   "name": "psvr",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.0.2",
+  "description": "library for parsing psvr sensor data",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "",
+  "author": "Kentaro Teramoto",
   "license": "GPL-3.0",
   "dependencies": {
-    "debug": "^2.2.0",
-    "node-hid": "^0.5.1"
+    "debug": "2.2.0",
+    "node-hid": "0.5.1"
   }
 }
