@@ -9,6 +9,7 @@
   "author": "",
   "license": "GPL-3.0",
   "dependencies": {
+    "debug": "^2.2.0",
     "node-hid": "^0.5.1"
   }
 }
