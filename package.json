@@ -6,6 +6,19 @@
   "scripts": {
     "start": "node index.js"
   },
+  "keywords": [
+    "psvr",
+    "vr",
+    "play",
+    "station",
+    "ps",
+    "acceleration",
+    "gyro"
+  ],
+  "repository": {
+    "type" : "git", 
+    "url" : "https://github.com/hrl7/node-psvr.git"
+  },
   "author": "Kentaro Teramoto",
   "license": "GPL-3.0",
   "dependencies": {
