@@ -23,23 +23,27 @@ var device = new PSVR();
 ### data
 - `data` - Object - the data read from the device
 ```
-{
-  "yawAccel": -1,
-  "pitchAccel": -1,
-  "rollAccel": -1,
-  "yaw": -66,
-  "pitch": 64,
-  "roll": 2,
-  "xAccel": 0,
-  "yAccel": -1,
-  "zAccel": 64,
-  "isWorn": false,
-  "isDisplayActive": true,
-  "isEarphoneConnected": false,
-  "mute": false,
-  "volume": 16
+{ yawGyro0: 2,
+  pitchGyro0: 8,
+  rollGyro0: 6,
+  xAccel0: 16897,
+  yAccel0: -113,
+  zAccel0: 3361,
+  yawGyro1: -8,
+  pitchGyro1: 22,
+  rollGyro1: -4,
+  xAccel1: 16993,
+  yAccel1: -225,
+  zAccel1: 3345,
+  yaw: -2541,
+  roll: 74827,
+  pitch: 34289,
+  isWorn: false,
+  isDisplayActive: false,
+  isEarphoneConnected: false,
+  mute: false,
+  volume: 20 
 }
-
 ```
 
 ### rawData
