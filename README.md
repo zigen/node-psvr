@@ -15,6 +15,14 @@ this is the node js package for using psvr.
   });
 ```
 
+## for MacOS
+
+I tried Mac OS 10.11.6
+```
+ sudo kextunload -b com.apple.driver.usb.IOUSBHostHIDDevice
+
+```
+
 
 ## API
 ```
