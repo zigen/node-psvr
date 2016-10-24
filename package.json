@@ -16,13 +16,14 @@
     "gyro"
   ],
   "repository": {
-    "type" : "git", 
-    "url" : "https://github.com/hrl7/node-psvr.git"
+    "type": "git",
+    "url": "https://github.com/hrl7/node-psvr.git"
   },
   "author": "Kentaro Teramoto",
   "license": "GPL-3.0",
   "dependencies": {
     "debug": "2.2.0",
-    "node-hid": "0.5.1"
+    "node-hid": "0.5.1",
+    "usb": "1.2.0"
   }
 }
